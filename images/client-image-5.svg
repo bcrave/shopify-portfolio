@@ -1,0 +1,13 @@
+<svg width="94" height="129" viewBox="0 0 94 129" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.90002 46.5C1.90002 21.6472 22.0472 1.5 46.9 1.5C71.7528 1.5 91.9 21.6472 91.9 46.5V126.526H1.90002V46.5Z" stroke="#2E2E2E" stroke-width="3"/>
+<path d="M13.978 48.7857C13.978 30.6034 28.7177 15.8636 46.9 15.8636C65.0824 15.8636 79.8221 30.6033 79.8221 48.7857V110.695H13.978V48.7857Z" fill="#2E2E2E" stroke="#2E2E2E" stroke-width="3"/>
+<circle cx="55.9585" cy="43.3507" r="13.2857" fill="#C4C4C4"/>
+<mask id="mask0_64_348" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="12" y="14" width="70" height="100">
+<path d="M13.478 48.7857C13.478 30.3272 28.4415 15.3636 46.9 15.3636C65.3585 15.3636 80.3221 30.3272 80.3221 48.7857V113H13.478V48.7857Z" fill="#2E2E2E" stroke="#2E2E2E" stroke-width="2"/>
+</mask>
+<g mask="url(#mask0_64_348)">
+<ellipse cx="25.7637" cy="107.85" rx="22.9481" ry="23.3715" fill="white"/>
+<ellipse cx="65.6208" cy="110.31" rx="35.026" ry="35.6723" fill="white"/>
+</g>
+<path d="M13.1586 49.8146C13.1586 31.0421 28.2716 15.8356 46.9 15.8356C65.5285 15.8356 80.6414 31.0421 80.6414 49.8146V113.249H13.1586V49.8146Z" stroke="#2E2E2E" stroke-width="2"/>
+</svg>
